@@ -1,6 +1,4 @@
 # Fitcoin
-
-
 Developed a Blockchain terminal application using GoLang and BadgerDB.
 
 Proof of work blockchain in terminal check it out!
